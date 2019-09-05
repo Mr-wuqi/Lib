@@ -1,4 +1,4 @@
-# Lib
+# Lib (小型数据结构库)
 
 运行环境： Qt Create
 
